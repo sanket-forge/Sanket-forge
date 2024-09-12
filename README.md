@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanket Kumar Khatua</h1>
-<h3 align="center">A passionate IOS developer from India</h3>
+<h3 align="center">A passionate iOS developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket-forge" alt="sanket-forge" /></a> </p>
 
 - 🔭 I’m currently working on **Weather app**
 
-- 🌱 I’m currently learning **IOS Developement**
+- 🌱 I’m currently learning **iOS Developement**
 
-- 🤝 I’m looking for help with **IOS Developement**
+- 🤝 I’m looking for help with **iOS Developement**
 
 - 📫 How to reach me **sanketkhatua9861@gmail.com**
 
